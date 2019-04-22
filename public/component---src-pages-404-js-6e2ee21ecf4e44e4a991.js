@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{143:function(e,n,t){"use strict";t.r(n);var l=t(0),a=t.n(l);n.default=function(){return a.a.createElement("div",null,a.a.createElement("div",null,a.a.createElement("h2",{className:"bg-yellow inline-block my-8 p-3"},"Looks like this page doesn't exist...")))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-6e2ee21ecf4e44e4a991.js.map
